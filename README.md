@@ -1,4 +1,4 @@
-# Bank Customer Churn Analysis 🏦
+# Bank Customer Churn Analysis 
 
 ## Live Dashboard
 [View Interactive Dashboard](https://maherq11.github.io/bank-churn-analysis)
