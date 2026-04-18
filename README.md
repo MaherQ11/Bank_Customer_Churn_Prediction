@@ -64,4 +64,4 @@ jupyter notebook bank_churn_analysis.ipynb
 
 ## Author
 **Maher Al-Qurashi**  
-github.com/MaherQ11 | linkedin.com/in/maher-al-qurashi-69a163351
+[Github](github.com/MaherQ11) |[LinkedIn] (linkedin.com/in/maher-al-qurashi-69a163351)
