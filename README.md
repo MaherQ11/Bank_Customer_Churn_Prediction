@@ -57,4 +57,5 @@ jupyter notebook bank_churn_analysis.ipynb
 github.com/MaherQ11 | linkedin.com/in/maher-al-qurashi-69a163351
 
 ## Dashboard Preview
-![Bank Customer Churn Dashboard](BankDashBoard.png)
+![Bank Customer Churn Dashboard](<img width="1150" height="643" alt="BankDashBoard" src="https://github.com/user-attachments/assets/c889fab9-18b2-4f64-a585-ddd734943513" />
+)
